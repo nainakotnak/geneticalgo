@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+ytsummariser
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Model files
+*.gguf
+=0.17.1
+
+#Audio File
+audio.mp3

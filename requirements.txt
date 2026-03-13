@@ -1,0 +1,8 @@
+farm-haystack 
+pytube
+git+https://github.com/openai/whisper.git 
+cached_property
+torch==2.1.0 
+streamlit==1.29.0 
+llama-cpp-python==0.2.11
+yt_dlp
